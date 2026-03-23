@@ -1,0 +1,34 @@
+
+** ADVANCED DAX**
+- Create measures using time intelligence functions.
+- Create measures for comparisons across time periods.
+- Create measures to calculate growth or percentage change.
+- Create measures to perform ranking and top N analysis.
+✅ Task: Develop at least 3–5 advanced measures and apply them in visuals.
+
+**DASHBOARD VISUALIZATION (PART 1)**
+- Create visuals using:
+> - Bar, Column, Pie, Donut
+> - Line, Area, Scatter
+> - KPI & Gauge Cards
+✅ Task: Show overall key metrics and trends whereever possible.
+
+Yahoo Mail: Search, organise, conquer
+
+
+Today's challenge Power BI -
+
+**DATA MODELING**
+Identify Fact table(s) and Dimension table(s).
+Build relationships (one-to-many / many-to-one).
+Check cardinality and cross-filter direction.
+✅ Task: Create a clear and correct data model.
+
+**TASK 4 – BASIC DAX MEASURES**
+**Create aggregation measures such as:**
+SUM → total of a numeric column
+AVERAGE → mean value of a numeric column
+COUNT / COUNTROWS → number of records
+MIN / MAX → smallest and largest values
+
+
